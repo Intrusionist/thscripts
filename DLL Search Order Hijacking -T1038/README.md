@@ -1,6 +1,6 @@
 # **DLL Search Order Hijacking - T1038**
 ### 1. DLL Search Order Hijacking - amsi.dll
-
+---
 Command Execution
 ```
 cmd.exe copy %windir%\System32\windowspowershell\v1.0\powershell.exe %APPDATA%\updater.exe
