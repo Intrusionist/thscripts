@@ -1,4 +1,4 @@
-# Registry Run Keys / Startup Folder - T1060
+# Registry Run Keys - T1060
 ---
 
 
